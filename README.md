@@ -6,7 +6,7 @@ Installation
 
 1. Clone or download repository
 
-    https://github.com/edlef/symfony-demo.git
+    https://github.com/sedki1989/ghazela-backend
 
 2. Run composer
 
