@@ -1,3 +1,5 @@
+this is simple platform for customer invoice management
+
 ghazela: Backend
 =======
 
